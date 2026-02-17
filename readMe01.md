@@ -42,4 +42,5 @@ https://js2iiu.com/2025/05/15/streamlit-community-cloud/#toc13
   
 ④「Deploy」ボタンをクリック
 		数十秒でアプリがデプロイされ、公開URLが発行されます
+
 		https://app-public-qr9-xqzeenwzledyjok4jh8xxq.streamlit.app/
