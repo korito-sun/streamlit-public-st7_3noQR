@@ -1,4 +1,4 @@
-# AG6液晶演出検査機QRコード判定のstreamlitファイルの公開用リポジトリ　20251204
+# AG5_6液晶演出検査機OK/NGのstreamlitファイルの公開用リポジトリ　20260217
 QRコード不良ダッシュボード公開方法覚え
 
 参考URL
@@ -44,3 +44,4 @@ https://js2iiu.com/2025/05/15/streamlit-community-cloud/#toc13
 		数十秒でアプリがデプロイされ、公開URLが発行されます
 
 		https://app-public-qr9-xqzeenwzledyjok4jh8xxq.streamlit.app/
+
